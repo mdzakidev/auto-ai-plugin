@@ -1,1 +1,1 @@
-# auto-ai-cjs-plugin
+# auto ai with elxyz.me
